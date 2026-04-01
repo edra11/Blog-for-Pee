@@ -115,7 +115,7 @@ updateNav();
 const POSTS = {
   'post-1': {
     badge:    'GLOBAL WARMING',
-    img:      'https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=1200&q=85',
+    img:      'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/644504230_936419328732627_626103112068842267_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGWqF0y-POiolRSTQl7LQssCWkEcX_olCoJaQRxf-iUKlQewG9-HJNPnNWMRrAcOrZ8WcSsuJWb7aT_Yvwv6Kll&_nc_ohc=fTqi8VTF-bcQ7kNvwHIPHSD&_nc_oc=Adq5_YL4goh85z3sgnwDxJJLHa5JOuH1tXVhDVw3gLQsTuaRUSIOWP5Aw7K2pHyqYlg&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AEoQeZqVwPi4B-DLE4QlrnkoaNZh72hQoMTjh_3UYY8HQ&oe=69F46354',
     title:    'The Causes of Global Warming',
     subtitle: 'Understanding the Human and Natural Forces Heating Our Planet',
     author:   'IT Student Team',
@@ -154,7 +154,7 @@ const POSTS = {
   },
   'post-2': {
     badge:    'CLIMATE IMPACT',
-    img:      'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=85',
+    img:      'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658834344_1491846205885124_6283907675803813740_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEnPUM1vq38aOvfd7WGJP0bUmaY23jjZQVSZpjbeONlBU3-cUcEoudgs9EN5bkS8qLie2jeVpSOGS4964J-g59d&_nc_ohc=W9S5fbUh3mUQ7kNvwEnl7F5&_nc_oc=Adp68r9IxFgUMX6O0kSa6tT1E72kEg-of8a02NB9HUEPoHB7UJUtnZT-InqVwGDdc2M&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGXBnMSA1TsUtghb03Mvk7kC3nAc0M_8WpCwDGrILGkdQ&oe=69F475AA',
     title:    'Climate Change and Its Impact',
     subtitle: 'How a Warming Planet is Reshaping Life on Earth',
     author:   'IT Student Team',
@@ -184,7 +184,7 @@ const POSTS = {
   },
   'post-3': {
     badge:    'BIODIVERSITY LOSS',
-    img:      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&q=85',
+    img:      'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/662355554_1782752526443453_1917124909035173885_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEpeIHShkYw-pkJKhOGGJ60FblifIiLroQVuWJ8iIuuhI8WhwQEy3rOAYIVy3Y05QUISTMC5__niIWgTrPB4Bh5&_nc_ohc=yHosh_tp_ewQ7kNvwH_QLhX&_nc_oc=Adok1l3v2ITUoKaikmyg0ix7H2sacG6MI0ckk5GQ5X3wzNDcO8cAW7oTN04wwz0DEBY&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AHCz4KX_B2q8qR0Hu8DAa4Zt6AIskHaf07GkooHp54txQ&oe=69F45C03',
     title:    'Effect of Biodiversity Loss',
     subtitle: 'The Sixth Mass Extinction and What It Means for Humanity',
     author:   'IT Student Team',
@@ -273,7 +273,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'The Causes of Global Warming',
       subtitle: 'Understanding the Human and Natural Forces Heating Our Planet',
-      img: 'https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658222099_1625148808790258_4838372844223400417_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEjMFkP2hsMPTgcYe3ciCr41ZzKQuBEDHHVnMpC4EQMcffS3lOAA7WgunTwWQuUrKqCtWAYlQp61Dah3J7u425s&_nc_ohc=CcibDZwYdnkQ7kNvwERLJUq&_nc_oc=AdoEqloZ583L9XVVdTZ6g4ZH-K1tcLYESBrZ4OijwrgPaXV00Lu5E5VnkmNZSYAjqEU&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGuyWWF3yYcRKu-K1u_e9k6_iHvly_pauYGjmu7_MI7FA&oe=69F47858',
       author: 'Arthur Jake Rosario', date: 'March 2026', read: '7 min read',
       tags: ['#Fossil Fuels', '#Greenhouse Gases', '#Carbon Emissions'],
       body: `
@@ -319,7 +319,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'Greenhouse Gas Emissions: A Deep Dive',
       subtitle: 'How Different Industries Contribute to the Climate Crisis',
-      img: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/567046530_2621385221554987_8796483838706343739_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeENRJ587hwKQfav5ZbI9T4sIQOUplhf4ZkhA5SmWF_hmfJ6eOkSpZZ9ADMpiJ_6F1Qco4XnFgzdJHzm6_Lx3INN&_nc_ohc=Z3ULHVg-NcEQ7kNvwFMNE0L&_nc_oc=Adp7M0AQOAtkl21AnIoQ_UPsoqF8NdadL-ZG5Kmmv7J7WTPUHJRObKzmUjPjdobUuWA&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AEFqexkufhCB5hti3qYMisCzLg-tv7dxn3SAoVjfjjFlQ&oe=69F46527',
       author: 'Christian Montes', date: 'March 2026', read: '6 min read',
       tags: ['#CO2', '#Industry', '#Energy'],
       body: `
@@ -350,7 +350,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'Deforestation and Carbon Loss',
       subtitle: 'How We Are Losing the Planet\'s Carbon Sink',
-      img: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/576286257_1404210061712397_7744894746470859632_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFzEvzF27FXobebRZ8aNjjjFG3JnIiAqD8UbcmciICoP6qB1jLTPzBvHl40OsAABmPy5tPF3zGNKt-aAr5yEWfU&_nc_ohc=V_aiwUjgkn4Q7kNvwG4DeAV&_nc_oc=AdrctWTNgn7INKZ_zMycdyQEfnd09dsiaUEzpLGMoxi5aQ0qow-aikKJWIFqqeZj93M&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AHDDeiFJNASoz-ys56b9CqXIcow1ZS7y2Xr9SWENgeH8g&oe=69F47990',
       author: 'Leolah Mae Camposano', date: 'March 2026', read: '5 min read',
       tags: ['#Deforestation', '#Carbon', '#Trees'],
       body: `
@@ -379,7 +379,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'Methane: The Hidden Threat',
       subtitle: 'Understanding Methane Emissions and Their Impact',
-      img: 'https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/661672343_2470394726745271_8761939508906573027_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGdfUmA6SWvZBcbFfiH-3b_x3MxvW5F6hnHczG9bkXqGXOLwKalre5b-9C8FYcOUVbMazGnZWFLl9vIFA7vdQQZ&_nc_ohc=VPhep9D1RsUQ7kNvwFrsj1e&_nc_oc=Ado0l2TZjK-B3VcJISXsXCsdngZM8kNJxGyxyNFDsamk1jkgaihLEuWSjqeJZC3TCpA&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGctd08TwNv7D0Y38n9HkkWp1WVdmQZF_psTBelLym2mw&oe=69F458F5',
       author: 'Rhobbie Roxas', date: 'March 2026', read: '6 min read',
       tags: ['#Methane', '#Livestock', '#Agriculture'],
       body: `
@@ -409,7 +409,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'Global Carbon Dioxide Levels',
       subtitle: 'Tracking CO₂ Concentrations Through the Centuries',
-      img: 'https://images.unsplash.com/photo-1527666550448-4c8fef8b88c5?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658295719_3900921103374123_3610764015060313731_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG56mBmAPiDKf4jdlxBfBIVrq5pMpj2DeSurmkymPYN5DdoTbhgSB3Pi1BZd_JkqJFI3lIw9wu0xo8uZ-wS4rCp&_nc_ohc=cfjt2dRt7H0Q7kNvwGRhD4k&_nc_oc=AdoH1vVybneGBngxYxVE1Dwfip8uq8qZj6ciAWGKgl_-kIiamOYBIVOnezd9s2AokiE&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AH_Wh3HPKFmXK5oUabvIKhfU41O-PU_6gh7zYA93G_8vg&oe=69F45F26',
       author: 'Prince Charles Santos', date: 'March 2026', read: '7 min read',
       tags: ['#CO2', '#Atmosphere', '#Data'],
       body: `
@@ -443,7 +443,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'Renewable Energy Solutions',
       subtitle: 'Moving Beyond Fossil Fuels for a Sustainable Future',
-      img: 'https://images.unsplash.com/photo-1509391366360-2e938286db4c?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/552654560_24510810591895450_2233734774327044194_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeH3Rmh4sARhvrB8zzQUjZis_cAQ0EdaTxj9wBDQR1pPGB9i1cINdxBGaJDd29cn9qC2AR_WziABQarkBfXHRxIz&_nc_ohc=8Tyg_RtygHkQ7kNvwHU8sc_&_nc_oc=AdrCH0hi2EQr5N84-Ymj4QC6u0rkYdjJ8nLSYKa-EUMLc8kkfMZmfzKPHPxcc3vCCyQ&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AFGKGe-auwlKl0n5eYIQWS_uJtc_cs8NdDt5yLxnCX8Ng&oe=69F46FDE',
       author: 'Zandra Gabriela Arante', date: 'March 2026', read: '8 min read',
       tags: ['#Renewable', '#Energy', '#Solutions'],
       body: `
@@ -504,7 +504,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'Urban Heat Islands in the Philippines',
       subtitle: 'How Cities Amplify Global Warming Effects Locally',
-      img: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/661397458_1039129962618385_5829793348347492140_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHV36nQZx09vz0vKtmUYNGhHctmtgU86Ogdy2a2BTzo6PWF8bQ5yHAmqj4839qPed5BFlHT9NonZFV_NYGxi3vZ&_nc_ohc=xN79Vttm9qIQ7kNvwFeZGax&_nc_oc=AdpVmPAMJdWjIiWY8SANAheebHFg6KviXwKlg8T0gU2ajqj0KBJdnmv0zRdfoZiGyDc&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AEfZw1gO8X15ZwIlBk7GNIkf6LyfP4_qooW_IBhQS3sAQ&oe=69F4735F',
       author: 'Edralin Ramos', date: 'March 2026', read: '5 min read',
       tags: ['#Urban', '#Philippines', '#Heat'],
       body: `
@@ -536,7 +536,7 @@ const TOPIC_POSTS = {
       badge: 'GLOBAL WARMING',
       title: 'International Climate Agreements',
       subtitle: 'How Nations Are Cooperating to Reduce Emissions',
-      img: 'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/660815575_794265363753361_8637492874309401197_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEbcHTzznCUkW4pFe9dAqlbPAgkj6H5iD48CCSPofmIPork8ttI97g2f8QTc9uIYs_K8IexkXbHZ2k3NCBqPQSu&_nc_ohc=N6BFCLBX8PcQ7kNvwE0s0yu&_nc_oc=Adq1M61PqaHLjZ365mYRTJnl7X0K8bZgZpjwEyHU-WJtpAG-NTalfstJiKqAh0TpVNM&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AFq04xmN6of6oMr64tyf5ewVRXqBZ5_3ZipoRXsEVHeYA&oe=69F46CAE',
       author: 'Cherlyn Lavapie', date: 'March 2026', read: '7 min read',
       tags: ['#Paris Agreement', '#Policy', '#UNFCCC'],
       body: `
@@ -569,7 +569,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Climate Change and Its Impact',
       subtitle: 'How a Warming Planet is Reshaping Life on Earth',
-      img: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658834344_1491846205885124_6283907675803813740_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEnPUM1vq38aOvfd7WGJP0bUmaY23jjZQVSZpjbeONlBU3-cUcEoudgs9EN5bkS8qLie2jeVpSOGS4964J-g59d&_nc_ohc=W9S5fbUh3mUQ7kNvwEnl7F5&_nc_oc=Adp68r9IxFgUMX6O0kSa6tT1E72kEg-of8a02NB9HUEPoHB7UJUtnZT-InqVwGDdc2M&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGXBnMSA1TsUtghb03Mvk7kC3nAc0M_8WpCwDGrILGkdQ&oe=69F475AA',
       author: 'Jonalyn Tablizo', date: 'March 2026', read: '8 min read',
       tags: ['#Sea Level Rise', '#Extreme Weather', '#Food Security'],
       body: `
@@ -599,7 +599,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Rising Sea Levels and Coastal Threats',
       subtitle: 'Why Coastal Communities Are on the Front Line',
-      img: 'https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&q=80',
+      img: 'https://images.unsplash.com/photo-1650933910505-ed8e3de6706a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmlzaW5nJTIwc2VhJTIwbGV2ZWwlMjBhbmQlMjBjb2FzdGFsJTIwdGhyZWF0c3xlbnwwfHwwfHx8MA%3D%3D',
       author: 'Caleb Nicholas Cofuentes', date: 'March 2026', read: '7 min read',
       tags: ['#Sea Level', '#Coastal', '#Philippines'],
       body: `
@@ -629,7 +629,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Melting Ice and Glaciers',
       subtitle: 'The Frozen World Is Thawing Faster Than Expected',
-      img: 'https://images.unsplash.com/photo-1504700610630-ac6aba3536d3?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/663377268_1382575623581596_1743425286522254702_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGqUytht_9oD_w0_awYvx8iG64TLQxZ83wbrhMtDFnzfJn9_edcN_xB6ifh6MMJlUPCtpDmpftluVoed89IkM3n&_nc_ohc=0Eg2fpVxN30Q7kNvwFmWDGz&_nc_oc=AdquVAnKra6xmbZkxwGzPvjzBNMd5RxaZXuF1Y6wx4sdTPKz6nlIPDBF0XSC80DV3q4&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AFd9JnELSe0qVyWoenB0GexqRaEPBIzBGWPEOVh8qKP4Q&oe=69F46ED6',
       author: 'Rhobbie Roxas', date: 'March 2026', read: '6 min read',
       tags: ['#Arctic', '#Glaciers', '#Ice'],
       body: `
@@ -659,7 +659,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Extreme Weather Events',
       subtitle: 'Climate Change Supercharging Natural Disasters',
-      img: 'https://images.unsplash.com/photo-1501684130949-7e26f3d08aca?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/565038769_1110477804578474_2903510103949861593_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHd_ial_AXr2YAh842sS9GID18KDfNmczkPXwoN82ZzOW143OxJdf-3l4h9pJreLA0dyzXRgECCr3aESFHrbqfV&_nc_ohc=nHNBr-m7NB8Q7kNvwG1M1EJ&_nc_oc=AdrWYOt2K_sB_PqRPHP7JgZqee90nfEbIEJQk3Xpsh_1xNaZJOoMtKHsUdbr7iJ_TZk&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGXl7DPDiYqHgCMUhVhNJsJcTHBblF2C6xk7cjAM2WmKQ&oe=69F47FFE',
       author: 'Leolah Mae Camposano', date: 'March 2026', read: '7 min read',
       tags: ['#Typhoon', '#Floods', '#Disaster'],
       body: `
@@ -689,7 +689,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Food Security in a Changing Climate',
       subtitle: 'How Climate Change Threatens Global Food Production',
-      img: 'https://images.unsplash.com/photo-1500000046051-852373e5973f?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/662498509_1227838779107087_3255085940370600257_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHTWzwAPCIHREzecWTu8FmTSLot8XBDgyJIui3xcEODIhj1StvwTSzJlWuH4zK3KMT4I4mVf-HDhH7lveaWPcxR&_nc_ohc=79qUHIrg9FIQ7kNvwH44CPQ&_nc_oc=AdrKmDvCdgGrZu5iHhbbPpoB_ILGrsu9GHjYcSXCkpvkboiE7vlHVp8vA1Z8qxPNffA&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AEUOjY2i6BPMz97S23wJiLPfCaL9rGbWEAmbQcGrzkY1Q&oe=69F473F6',
       author: 'Arthur Jake Rosario', date: 'March 2026', read: '7 min read',
       tags: ['#Food', '#Agriculture', '#Security'],
       body: `
@@ -716,7 +716,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Climate Migration and Displacement',
       subtitle: 'The Human Cost of Environmental Change',
-      img: 'https://images.unsplash.com/photo-1464207687429-7505649dae38?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658787628_1824369734900164_4333103658630877324_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFF4YRyHCMwbe8Wmob8nH9qU2PuLbKwZBNTY-4tsrBkE4ESbRRHz1Ps_kPP4lYacLdnAWTyLtv1ONmcTAgqR0gB&_nc_ohc=OjtNWSrv5wAQ7kNvwGUKg2S&_nc_oc=AdqCNj_PUsiAjm0ICi2YGn9ei4zvMuSIv2VyenORM8k_n5XXIdC07Pjagy1cLCQqi_I&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AETICRt_iZdWrS_Dwc0Vj_hGSJj4dQcHQh8KK96ZAmjgQ&oe=69F46D25',
       author: 'Christian Montes', date: 'March 2026', read: '8 min read',
       tags: ['#Migration', '#Displacement', '#Refugees'],
       body: `
@@ -745,7 +745,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Public Health and Climate Change',
       subtitle: 'How Global Warming Threatens Human Health',
-      img: 'https://images.unsplash.com/photo-1576091160550-112173f7f869?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658027261_1879807919336110_248913374720950809_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEsws5c9fzKJ0iyry_8yG4yXdB-wwWxR25d0H7DBbFHblIyuhVxsFUTQTeLhA9PkRt-Cwa1_Db4PopQF8_xYIET&_nc_ohc=aJArrVdxDwEQ7kNvwFrGn4k&_nc_oc=AdrgzGvKxHbsKePQ4Rq5QoJbYcGqaZnowcue14_m1h6AzECozQ3t_wi1VQGGm2dzfAY&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGaNgt27xOOrpC4OIK2imVqcCXyZEIaDhiHSwKlbR1Pzg&oe=69F48373',
       author: 'Prince Charles Santos', date: 'March 2026', read: '7 min read',
       tags: ['#Health', '#Disease', '#Temperature'],
       body: `
@@ -774,7 +774,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Ocean Acidification Crisis',
       subtitle: 'The Invisible Threat to Marine Ecosystems',
-      img: 'https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658403630_934019866156184_7389540448334257389_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHiptE5w_TysuAMkhKPsxxI_dR5NHEDOa391Hk0cQM5rVIIYGtRDRwNQPVi_3YnAs6BrU7rKQCgA4_Dq4o7Gvn_&_nc_ohc=bvRftFpyVG4Q7kNvwFJRf4Q&_nc_oc=AdqjQrWjp4ujB6dZbqUnnSx1NQC8viM5KeKXeuRBEvH_d29hsAeAdfD70JJymUTfa64&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AFtdazIlWToZrXLtSQplXi7v2h3UF_HVZGXKW2bqMJqJg&oe=69F45F4D',
       author: 'Cherlyn Lavapie', date: 'March 2026', read: '6 min read',
       tags: ['#Ocean', '#Acidification', '#Marine'],
       body: `
@@ -803,7 +803,7 @@ const TOPIC_POSTS = {
       badge: 'CLIMATE IMPACT',
       title: 'Super Typhoon Haiyan: A Philippine Tragedy',
       subtitle: 'The Devastating Impact of Climate-Driven Extreme Weather',
-      img: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/657931311_1478054573724730_7663363461809751813_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEhjBZW7p-CqeC_uE0wgK3vcjd-5j-pEvJyN37mP6kS8ruzNOh3OmEIJAYg6KubPFmOwrOn3nutQVsS8Se8LtFw&_nc_ohc=vebBDmMzjtkQ7kNvwFuqxwf&_nc_oc=AdpP6bZANby6qyuu4NPb9FgVMzlRZLviTO3QE9JiDHB5BtvlaaJACtt0VkxjkBh-hsc&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AHc86xGNHiULazyyEMUTW6601JyRGNqhSX1c2XYkLlZbQ&oe=69F484AD',
       author: 'Zandra Gabriela Arante', date: 'March 2026', read: '8 min read',
       tags: ['#Philippines', '#Typhoon', '#Disaster'],
       body: `
@@ -835,7 +835,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Effect of Biodiversity Loss',
       subtitle: 'The Sixth Mass Extinction and What It Means for Humanity',
-      img: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/662355554_1782752526443453_1917124909035173885_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEpeIHShkYw-pkJKhOGGJ60FblifIiLroQVuWJ8iIuuhI8WhwQEy3rOAYIVy3Y05QUISTMC5__niIWgTrPB4Bh5&_nc_ohc=yHosh_tp_ewQ7kNvwH_QLhX&_nc_oc=Adok1l3v2ITUoKaikmyg0ix7H2sacG6MI0ckk5GQ5X3wzNDcO8cAW7oTN04wwz0DEBY&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AHCz4KX_B2q8qR0Hu8DAa4Zt6AIskHaf07GkooHp54txQ&oe=69F45C03',
       author: 'Cherlyn Lavapie', date: 'March 2026', read: '7 min read',
       tags: ['#Extinction', '#Ecosystem Services', '#Conservation'],
       body: `
@@ -869,7 +869,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Habitat Destruction and Species Extinction',
       subtitle: 'How Human Development Drives Species to Extinction',
-      img: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/520234526_1921315328657376_2120564940920580896_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEajrFmhfNInEZJt6KnU_et5LzYB3FDxfPkvNgHcUPF8wcpphUA5zDwshyrGPv9zZsh0KFSOj8iKcxgcR0lg2ag&_nc_ohc=tByQidvwAfEQ7kNvwENvzzD&_nc_oc=AdoeYaYOiKLdUkhW_Lb-6TfdKjuMMzEShTtnyvbHSwRVEEHkU2dbKNgZVFF5vtbaWy4&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AHG-iI9ew-mb5_EyWvLIPhwNo0VRcXgz6Qrk7cq5yCOFg&oe=69F4864D',
       author: 'Edralin Ramos', date: 'March 2026', read: '7 min read',
       tags: ['#Habitat', '#Extinction', '#Conservation'],
       body: `
@@ -899,7 +899,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Pollinator Decline and Food Security',
       subtitle: 'How Bee Population Collapse Threatens Our Food Supply',
-      img: 'https://images.unsplash.com/photo-1465014392158-4d72a6bde933?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658901858_26270403802621921_4035191896626593981_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGooPVU7J8G9MHIiFVJQS9k_dnw8m1uO0P92fDybW47Q7SJ3wVrOoQHdrWgZE0HXfcRkM9r7WXHzzcOV3WPV2po&_nc_ohc=QLZRIqsyPokQ7kNvwF8Vy9z&_nc_oc=AdoRxrxW0bFIOIkgMeII7M3anr33vtHdM_fPMb3Shy8Y-zpoELLSOwc6SffomrROves&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGduIpo0i98njj6UF8WkIaooLJ1T0nPQfcGshBXm5RHhQ&oe=69F45FEE',
       author: 'Leolah Mae Camposano', date: 'March 2026', read: '6 min read',
       tags: ['#Pollinators', '#Bees', '#Agriculture'],
       body: `
@@ -929,7 +929,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'The Pharmaceutical Value of Biodiversity',
       subtitle: 'Why Species Conservation Is Medical Progress',
-      img: 'https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658427508_1916324885735309_3713168632017535372_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeE7-r-L5O53aQk_jnQNdxWgJw-NggtOUTEnD42CC05RMfIl-h7K7f-xyPjWuCFXeMdAqKH7Lq5dYU4c9LKGhTA4&_nc_ohc=GNtJB2vMFokQ7kNvwHV0NI6&_nc_oc=AdrHNiWvQwHlSfDx2rF355lzmQTKOzQM-Va_NrG6bmZMp_jmAAO12VJ1UtyDKKGnv9M&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AHe6sQ-0CIsizMWul8Mp8lthf6fOT_xeKD034h1doYvQg&oe=69F47019',
       author: 'Arthur Jake Rosario', date: 'March 2026', read: '7 min read',
       tags: ['#Medicine', '#Drugs', '#Nature'],
       body: `
@@ -989,7 +989,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Invasive Species and Ecosystem Damage',
       subtitle: 'How Non-Native Species Disrupt Ecosystems',
-      img: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658230599_1493178052525282_8496272426203639433_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEwvDCe2fTiqQfwxCSA6uJkohuFwOvaW1iiG4XA69pbWDLpGs5dz_UsTKnSR7iNmybwav_QsxR5OGBgSVpSw1DZ&_nc_ohc=DAZJk0-Kf2IQ7kNvwGk7Ze1&_nc_oc=Adqn1vKDUSKy-vjTaAD-zCsmYQaP7lLkUVEYK1F5gKkHMDBw_c-Mdaf9nGCid0dTZWU&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AGitpTwopG3OxbJ-zeyVdXeMvBoNuB_NoRwDMY-4cbf2w&oe=69F465EE',
       author: 'Christian Montes', date: 'March 2026', read: '6 min read',
       tags: ['#Invasive', '#Ecosystem', '#Species'],
       body: `
@@ -1019,7 +1019,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Philippine Endemic Species at Risk',
       subtitle: 'Unique Wildlife Found Nowhere Else on Earth',
-      img: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/658027261_927090443446450_862164540300853055_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFVz_RGOnvFwqadCNUE9xF6MV5UrxlUyhIxXlSvGVTKEsjudQryY2ZguJWH5HZ3mKWbBaA7YP-pFwo5AdvGvhIs&_nc_ohc=0aFHY1MK2SkQ7kNvwHgmddt&_nc_oc=AdqcvbQLn2XKfmlX1gKkuOtjW_lwT7m0aMEmlnfRq-rcdDvj7QnTXNhiWIw6IhXw7RE&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AFbp8zYo_U2q5GwP0sQ0EVWT3DVMlK8S6os7TJurMNzVA&oe=69F486A5',
       author: 'Rhobbie Roxas', date: 'March 2026', read: '7 min read',
       tags: ['#Philippines', '#Endemic', '#Wildlife'],
       body: `
@@ -1049,7 +1049,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Ecosystem Services and Human Survival',
       subtitle: 'The Free Services Nature Provides That We Take for Granted',
-      img: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/659028758_2113984729394370_6000810249861834830_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFjIo5XMj5MvvkUkNXrvqGNnmEQX3-EhUOeYRBff4SFQwbwc_cJZEE9c9yfkzOa9--kQPyVAS6LHlNMVW9U8_aO&_nc_ohc=R5Xcdm5hK-0Q7kNvwE_GpDH&_nc_oc=AdpcxOFNL91qWqG0NApj_UzO9HNsw8W_bSBFfEmYxr4Jq7GXWuHkdf3uCMpI_CPl7ss&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AE_K5jBVPF6m50JcyJ27mUaokpgZLo4-OVVKZwotso8bQ&oe=69F477F5',
       author: 'Jonalyn Tablizo', date: 'March 2026', read: '7 min read',
       tags: ['#Ecosystem', '#Services', '#Nature'],
       body: `
@@ -1079,7 +1079,7 @@ const TOPIC_POSTS = {
       badge: 'BIODIVERSITY LOSS',
       title: 'Conservation Strategies and Hope',
       subtitle: 'How We Can Reverse Biodiversity Loss',
-      img: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80',
+      img: 'https://scontent.fmnl44-1.fna.fbcdn.net/v/t1.15752-9/548818972_1171337214835537_3783578108394021633_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHk_s5baNruvTwdykHSJNL_p7mKFR57brKnuYoVHntusnFInCF-kpA2DjxiM4rKIPZ9HcT1U6rSBuRaiAO4PSoL&_nc_ohc=ogrbOc_mYy4Q7kNvwEl9pHt&_nc_oc=Adqir68IvD1RkINmq560Y5VQZOmsEmOcaZPEcopJopkd75Gma1lGVFM9DzAv_4thXDM&_nc_zt=23&_nc_ht=scontent.fmnl44-1.fna&_nc_ss=7a3a8&oh=03_Q7cD5AFh950SpW0f4NiVIn3EtSKHZSUsi89V-nAAbzy7kq6p6A&oe=69F48C06',
       author: 'Prince Charles Santos', date: 'March 2026', read: '8 min read',
       tags: ['#Conservation', '#Solutions', '#Hope'],
       body: `
